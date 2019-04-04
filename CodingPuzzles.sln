@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingPuzzles", "CodingPuzzles\CodingPuzzles.csproj", "{E35C2C54-922D-44B6-A39E-D187391DEB15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingPuzzlesTests", "CodingPuzzlesTests\CodingPuzzlesTests.csproj", "{59BDF4EB-93DD-46C6-B774-1A906109367C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E35C2C54-922D-44B6-A39E-D187391DEB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E35C2C54-922D-44B6-A39E-D187391DEB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35C2C54-922D-44B6-A39E-D187391DEB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BDF4EB-93DD-46C6-B774-1A906109367C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BDF4EB-93DD-46C6-B774-1A906109367C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BDF4EB-93DD-46C6-B774-1A906109367C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BDF4EB-93DD-46C6-B774-1A906109367C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
